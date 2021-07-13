@@ -5,7 +5,7 @@
 
 ## What is python?
 
-*Python is a progrmming language. It was created by Guido van Rossum, and released in 1991*
+*Python is a progrmming language. It was created by Guido van Rossum and released in 1991*
 
 *It is used for*
     
